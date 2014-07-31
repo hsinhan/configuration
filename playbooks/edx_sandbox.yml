@@ -18,6 +18,8 @@
     # These should stay false for the public AMI
     COMMON_ENABLE_DATADOG: False
     COMMON_ENABLE_SPLUNKFORWARDER: False
+    CERTS_DOWNLOAD_URL: 'http://192.168.56.101:18090'
+    CERTS_VERIFY_URL: 'http://192.168.56.101:18090'
   roles:
     - role: nginx
       nginx_sites:

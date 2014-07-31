@@ -27,12 +27,12 @@ ANALYTICS_API_USERS:
 ANALYTICS_API_CONFIG:
   ANALYTICS_DATABASE: 'reports'
   SECRET_KEY: 'Your secret key here'
-  TIME_ZONE: 'America/New_York'
-  LANGUAGE_CODE: 'en-us'
+  TIME_ZONE: 'Asia/Taipei'
+  LANGUAGE_CODE: 'zh-tw'
   # email config
-  EMAIL_HOST: 'smtp.example.com'
+  EMAIL_HOST: 'smtp.gmail.com'
   EMAIL_HOST_PASSWORD: ""
-  EMAIL_HOST_USER: ""
+  EMAIL_HOST_USER: "wsxxswliu@gmail.com"
   EMAIL_PORT: 587
   API_AUTH_TOKEN: 'put-your-api-token-here'
   STATICFILES_DIRS: []
