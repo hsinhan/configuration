@@ -17,7 +17,7 @@
 
 
 EDXAPP_LMS_BASE: ""
-EDXAPP_PREVIEW_LMS_BASE: ""
+EDXAPP_PREVIEW_LMS_BASE: "192.168.56.101"
 EDXAPP_CMS_BASE: ""
 # 'None' will be written out as null in
 # the configuration on disk
@@ -76,7 +76,7 @@ EDXAPP_CELERY_BROKER_VHOST: ""
 EDXAPP_VIDEO_CDN_URLS:
   EXAMPLE_COUNTRY_CODE: "http://example.com/edx/video?s3_url="
 
-EDXAPP_PLATFORM_NAME: 'Your Platform Name Here'
+EDXAPP_PLATFORM_NAME: '哇哈哈哈喔呵呵呵'
 
 EDXAPP_CAS_SERVER_URL: ""
 EDXAPP_CAS_EXTRA_LOGIN_PARAMS: ""
@@ -127,8 +127,8 @@ EDXAPP_CMS_NGINX_PORT: 18010
 EDXAPP_CMS_SSL_NGINX_PORT: 48010
 
 EDXAPP_LANG: 'en_US.UTF-8'
-EDXAPP_LANGUAGE_CODE : 'en'
-EDXAPP_TIME_ZONE: 'America/New_York'
+EDXAPP_LANGUAGE_CODE : 'zh-tw'
+EDXAPP_TIME_ZONE: 'Asia/Taipei'
 
 EDXAPP_TECH_SUPPORT_EMAIL: 'technical@example.com'
 EDXAPP_CONTACT_EMAIL: 'info@example.com'
@@ -140,7 +140,7 @@ EDXAPP_BULK_EMAIL_DEFAULT_FROM_EMAIL: 'no-reply@example.com'
 EDXAPP_UNIVERSITY_EMAIL: 'university@example.com'
 EDXAPP_PRESS_EMAIL: 'press@example.com'
 EDXAPP_PLATFORM_TWITTER_ACCOUNT: '@YourPlatformTwitterAccount'
-EDXAPP_PLATFORM_FACEBOOK_ACCOUNT: 'http://www.facebook.com/YourPlatformFacebookAccount'
+EDXAPP_PLATFORM_FACEBOOK_ACCOUNT: 'http://www.facebook.com/wsxxsw13'
 
 EDXAPP_ENV_EXTRA: {}
 EDXAPP_AUTH_EXTRA: {}
