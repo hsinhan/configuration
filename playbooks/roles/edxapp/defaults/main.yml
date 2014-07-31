@@ -17,7 +17,7 @@
 
 
 EDXAPP_LMS_BASE: ""
-EDXAPP_PREVIEW_LMS_BASE: "192.168.56.101"
+EDXAPP_PREVIEW_LMS_BASE: "192.168.56.101"   //haha
 EDXAPP_CMS_BASE: ""
 # 'None' will be written out as null in
 # the configuration on disk
